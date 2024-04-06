@@ -88,8 +88,11 @@ if (isset($_SESSION['timeout']) && time() > $_SESSION['timeout']) {
 
         }
         .carousel-caption {
-            background: #53535361;
+            background: #007bff40;
             border-radius: 10px;
+        }
+        a {
+            color: #1400ff;
         }
         .btn-primary {
             color: #fff;

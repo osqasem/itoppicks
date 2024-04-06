@@ -36,35 +36,31 @@ require_once 'Header.php';
 $operatingSystems = [
     [
         'name' => 'iOS 17',
-        'technicalInfo' => 'Technical information about iOS 17',
-        'history' => 'History of iOS 17',
-        'currentNews' => 'Current news related to iOS 17',
+        'technicalInfo' => 'iOS 17 is Apples current major release of its iOS operating system for the iPhone, succeeding iOS 16. iOS 17 receives frequent security and bug-fix updates, along with feature updates every few months. Beta builds are released weekly or biweekly to developers and public beta testers. Like previous iOS updates, iOS 17 is free for users.',
+        'history' => 'Announced on June 5, 2023, at Apples WWDC, it was publicly available on September 18, 2023, as a free update. ',
     ],
     [
         'name' => 'iOS 16',
-        'technicalInfo' => 'Technical information about iOS 16',
-        'history' => 'History of iOS 16',
-        'currentNews' => 'Current news related to iOS 16',
+        'technicalInfo' => 'It is exclusive to iPhones and drops support for the last iPod Touch. iOS 16 is also the last iOS release to support iPhone models with a 5.5-inch display, particularly the iPhone 8 Plus. It was succeeded by iOS 17 on September 18, 2023',
+        'history' => 'iOS 16 is Apples sixteenth major release of the iOS mobile operating system for the iPhone, succeeding iOS 15. Announced at WWDC on June 6, 2022, alongside iPadOS 16, it was released on September 12, 2022.',
     ],
     [
         'name' => 'iOS 13',
-        'technicalInfo' => 'Technical information about iOS 13',
-        'history' => 'History of iOS 13',
-        'currentNews' => 'Current news related to iOS 13',
+        'technicalInfo' => 'iOS 13 introduces a dramatic new look for iPhone with Dark Mode, new ways to browse and edit photos, and a private new way to sign in to apps and websites with just a tap. It also had several new security features, including stronger password protections, improved data encryption, and a new "Sign in with Apple" option. It also includes an enhanced version of the Intelligent Tracking Prevention tool to prevent websites from tracking user data',
+        'history' => 'iOS 13 is the thirteenth major release of iOS, being the successor to iOS 12 and the predecessor to iOS 14. It was announced at WWDC 2019 on June 3, 2019 alongside tvOS 13, watchOS 6, iPadOS and macOS Catalina, before being released to the general public on September 19, 2019',
     ],
 ];
 
 // Table header
 echo '<table class="table table-bordered">';
-echo '<tr><th>Name</th><th>Technical Information</th><th>History</th><th>Current News</th></tr>';
+echo '<tr><th>Name</th><th>Technical Information</th><th>History</th></tr>';
 
 // Table rows
 foreach ($operatingSystems as $os) {
     echo '<tr>';
     echo '<td>' . $os['name'] . '</td>';
     echo '<td>' . $os['technicalInfo'] . '</td>';
-    echo '<td>' . $os['history'] . '</td>';
-    echo '<td>' . $os['currentNews'] . '</td>';
+    echo '<td>' . $os['history'] . '</td>';    
     echo '</tr>';
 }
 
