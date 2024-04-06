@@ -45,7 +45,7 @@ $devices = DataSource::loadDevices();
                 <a href="OperatingSystem.php?id=<?= $device->operatingSystem; ?>">
                   <h7><?php echo $device->operatingSystem; ?></h7> Operating System
                 </a>
-                <!-- <p><?php echo $device->operatingSystem; ?> Operating System</p> -->
+                <?php echo $device->operatingSystem; ?> 
               </div>
             </div>
           <?php endforeach; ?>

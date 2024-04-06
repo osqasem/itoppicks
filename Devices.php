@@ -2,11 +2,10 @@
 require_once 'Classes/DataSourceClass.php';
 $devices = DataSource::loadDevices();
  require_once 'Header.php' ;
- 
+  // Show all devices
    	?>
 
 	<h1> Select a device to view </h1>
-
 	<div class="row p-2">
         <?php foreach($devices as $device): ?>
 		<div class="col-4">

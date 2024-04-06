@@ -4,7 +4,7 @@ require_once 'Header.php' ;
 
 
 echo "<h2 class='mx-4'> Chosen Favourite Devices is displayed below: </h2>";
-
+// Add the favourite device to user
 if($user) {
     $user->printFavorites();
     // Thank you message

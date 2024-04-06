@@ -17,18 +17,7 @@ function loadUsers() {
 }
 
 
-// Example usage: Load existing users
+// Load existing users
 $users = loadUsers();
-
-
-
-
-
-// // Sample existing users
-// $users[] = new User('user1', '321');
-// $users[] = new User('tom', '123');
-// $users[] = new User('hafeez', '123');
-// $users[] = new User('Omar', '123');
-// // Add more users as needed
 
 ?>

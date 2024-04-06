@@ -6,7 +6,6 @@ require_once 'Header.php';
 <style>
     .ios-explanation {
         font-family: 'Arial', sans-serif;
-        /* Change 'Arial' to the desired font family */
         font-size: 18px;
         line-height: 1.5;
     }
@@ -32,7 +31,7 @@ require_once 'Header.php';
 
 <?php
 
-// Example data for three operating systems
+// Table three operating systems
 $operatingSystems = [
     [
         'name' => 'iOS 17',

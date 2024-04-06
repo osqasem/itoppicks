@@ -14,7 +14,7 @@ require_once 'Header.php';
 </div>
 
 <?php
-// Example data for three devices
+// Table for three devices
 $devices = [
     [
         'id' => 1,

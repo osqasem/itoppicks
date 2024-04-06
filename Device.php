@@ -37,7 +37,7 @@
             </div>
 
 		</div>
-        
+        <!-- Technical information about the devices -->
         <div class="col-lg-6">
             <table class="table table-bordered">
             <tr>
@@ -97,7 +97,7 @@
                     </div>
                 <?php endforeach; ?>
             </div>
-            
+            <!-- Option to add your review -->
             <form class="my-5" action="AddDeviceReview.php" method="post">
                 <h3 >Add your review</h3>
                 <input type="hidden"  name="id" value="<?php echo $device->id; ?>" />
@@ -123,7 +123,7 @@
                 <button class="btn btn-secondary" type="submit">Save</button>
             </form>
         </div>
-        <!-- Right section (empty for now) -->        <!-- Middle section for technical information table -->
+        <!-- Middle section for technical information table -->
         <div class="col-lg-3">
                 
         
