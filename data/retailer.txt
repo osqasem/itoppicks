@@ -1,0 +1,9 @@
+{"id": 1, "deviceId": 1,"model": "iPhone 15 Pro Max", "siteName": "Jarir Bookstore","price":"QAR 6,199.00", "siteUrl": "https://www.jarir.com/qa-en/apple-iphone-15-pro-max-smartphones-623655.html"}
+{"id": 2, "deviceId": 1,"model": "iPhone 15 Pro Max", "siteName": "Al Anees","price":"QAR 6,149.00", "siteUrl": "https://alaneesqatar.qa/product/apple-iphone-15-pro-max-1tb-in-qatar/"}
+{"id": 3, "deviceId": 1,"model": "iPhone 15 Pro Max", "siteName": "Starlink","price":"QAR 6,049.00", "siteUrl": "https://www.starlink.qa/en/products/iphone-15-pro-max-1tb-black-titanium"}
+{"id": 4, "deviceId": 2,"model": "iPhone 14 Plus", "siteName": "Starlink","price":"QAR 4,149.00", "siteUrl": "https://www.starlink.qa/en/products/iphone-14-plus-512gb-starlight"}
+{"id": 5, "deviceId": 2,"model": "iPhone 14 Plus", "siteName": "Al Anees","price":"QAR 3,449.00", "siteUrl": "https://alaneesqatar.qa/product/apple-iphone-14-plus-6gb-512gb-blue-in-qatar/"}
+{"id": 6, "deviceId": 2,"model": "iPhone 14 Plus", "siteName": "Technical Care Center","price":"QAR 3,399.00", "siteUrl": "https://www.tccq.com/iphone-14-plus-blue-512gb-in-qatar"}
+{"id": 7, "deviceId": 3,"model": "iPhone 11 Pro Max", "siteName": "Al Anees","price":"QAR 4,349.00", "siteUrl": "https://alaneesqatar.qa/product/apple-iphone-11-pro-max-price-in-qatar/"}
+{"id": 8, "deviceId": 3,"model": "iPhone 11 Pro Max", "siteName": "Jarir Bookstore","price":"QAR 4,399.00", "siteUrl": "https://www.jarir.com/qa-en/apple-iphone-11-pro-max-smartphones-534352.html"}
+{"id": 9, "deviceId": 3,"model": "iPhone 11 Pro Max", "siteName": "lulu Hypermarket","price":"QAR 4,099.00.00", "siteUrl": "https://www.luluhypermarket.com/en-qa/apple-iphone-11-pro-max-256gb-gold/p/1630049"}

@@ -1,0 +1,3 @@
+{"id": 1, "username":"hafeez","password":"123","email":"hafeezu@gmail.com"}
+{"id": 3, "username":"Omar","password":"123","email":"osqasem@gmail.com"}
+{"id":"6611612bd6726","username":"Hayat","password":"123","email":"hayat@gmail.com"}

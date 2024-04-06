@@ -1,0 +1,9 @@
+{"id": 1, "deviceId": 1,"model": "iPhone 15 Pro Max", "siteName": "TechReview", "siteUrl": "https://www.tech-review.com/category/iphone"}
+{"id": 2, "deviceId": 1,"model": "iPhone 15 Pro Max", "siteName": "AppleInsider", "siteUrl": "https://appleinsider.com/inside/iphone-15"}
+{"id": 3, "deviceId": 1,"model": "iPhone 15 Pro Max", "siteName": "TechCrunch", "siteUrl": "https://techcrunch.com/2023/09/19/iphone-15-pro-max-review/"}
+{"id": 4, "deviceId": 2,"model": "iPhone 14 Plus", "siteName": "TomsGuide", "siteUrl": "https://www.tomsguide.com/reviews/iphone-14"}
+{"id": 5, "deviceId": 2,"model": "iPhone 14 Plus", "siteName": "Cnet", "siteUrl": "https://www.cnet.com/tech/mobile/iphone-14-plus-review-if-you-just-want-a-huge-screen-heres-your-upgrade/"}
+{"id": 6, "deviceId": 2,"model": "iPhone 14 Plus", "siteName": "TechRadar", "siteUrl": "https://www.techradar.com/reviews/iphone-14-plus-review"}
+{"id": 7, "deviceId": 3,"model": "iPhone 11 Pro Max", "siteName": "TechRadar", "siteUrl": "https://www.techradar.com/reviews/iphone-11-pro-max-review"}
+{"id": 8, "deviceId": 3,"model": "iPhone 11 Pro Max", "siteName": "TomsGuide", "siteUrl": "https://www.tomsguide.com/reviews/iphone-11-pro-max"}
+{"id": 9, "deviceId": 3,"model": "iPhone 11 Pro Max", "siteName": "Gsmarena", "siteUrl": "https://www.gsmarena.com/apple_iphone_11_pro_max-review-1991.php"}
